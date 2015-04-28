@@ -25,4 +25,18 @@ Beacause I have a French name, I've chosen the top-level-domain ".fr".
 
 ELI5 Linked Data
 
+Firstly, data by itself has different types like images, videos or just text. 
+Secondly the web is like a big container with all that data existing in it.
+That data gets into the web when people put in the web for everyone to see it.
+
+The problem is, that computers aren't that smart. They don't understand the relastionship between some data pieces.
+For example they don't know what a picture shows or if a link is useful or not.
+
+So linked data uses some formats to express relationships between data pieces.
+For expample I (Geneviève) know my best friend (Nicole). 
+
+If we connect all the data published on the web like this, we get a global information repository.
+So it gets easy for us to search every information we're interested in on the web.
+
+
 
