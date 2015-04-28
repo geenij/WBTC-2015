@@ -1,17 +1,28 @@
-# WBTC-2015
-
 Goal for this exercise is to create IRI patterns to identify myself on the web. 
 
 So here my first step into designing IRIs:
 
-http://genevièveleonore.fr/about
+for general information about me:
+http://genevièveleonore.fr/i
+http://genevièveleonore.fr/i/#birthday
+
+for all information about my education:
 http://genevièveleonore.fr/education
-http://genevièveleonore.fr/experience
-http://genevièveleonore.fr/interests
+http://genevièveleonore.fr/education/#esclaneuveville
+
+for all information about my work experience:
+http://genevièveleonore.fr/work
+http://genevièveleonore.fr/work/#upu
+
+for all information about sports I'm interested in:
+http://genevièveleonore.fr/sports
+http://genevièveleonore.fr/sports/#yoga
 
 Why did I chose those IRI patterns?
 
 I'm half Swiss and half French, living in Switzerland and going regularly on vacation to France.
 Beacause I have a French name, I've chosen the top-level-domain ".fr".
+
+ELI5 Linked Data
 
 
