@@ -1,2 +1,16 @@
-# WBTC-2015
-Studying Business Information Systems at the Bern University of Applied Sciences
+ @prefix rdf : <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+ @prefix foaf : <http://xmlns.com/foaf/0.1/> .
+ @prefix wiki : <http://en.wikipedia.org/wiki/> .
+ @prefix work : <http://xmlns/foaf/0.1/work> .
+
+ <http://genevièveleonore/i>
+ rdf:Type foaf:Person ;
+ foaf:account <http://500px.com/geneviève.eleonore> , <http://facebook.com/geneviève.eleonore> ;
+ foaf:contact <mailto:geneviève.schaerer@bluewin.ch> ;
+ 
+<http://genevièveeleonore/sports/#yoga> <http://xmlns/sport/1.0/> <http://yoga-studio4.ch> .
+<http://genevièveeleonore/#i> <http://xmlns.com/foaf/0.1/knows> “Nicole” .
+ 
+
+
+ 
