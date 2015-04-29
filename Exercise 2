@@ -6,7 +6,7 @@
  <http://genevièveleonore/i>
  rdf:Type foaf:Person ;
  foaf:account <http://500px.com/geneviève.eleonore> , <http://facebook.com/geneviève.eleonore> ;
- foaf:contact <mailto:geneviève.schaerer@bluewin.ch> ;
+ foaf:mbox <mailto:geneviève.schaerer@bluewin.ch> ;
  
 <http://genevièveeleonore/sports/#yoga> <http://xmlns/sport/1.0/> <http://yoga-studio4.ch> .
 <http://genevièveeleonore/#i> <http://xmlns.com/foaf/0.1/knows> “Nicole” .
